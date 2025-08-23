@@ -2,7 +2,7 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-SECRET_KEY = 'p2qi^j73hkgyc5x8#v9f%0aq8*39wg98f'
+SECRET_KEY = 'shafi'
 
 DEBUG = True
 
